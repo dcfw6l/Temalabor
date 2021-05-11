@@ -1,10 +1,10 @@
-# 2021 Témalabor 1. témaötlet - Premier League 17-18-as szezonjának elemzése  (Szász Kristóf - DCFW6L)
+# 2021 Témalabor 2. témaötlet - Olimpiai statisztikák elemzése 1896-tól 2012-ig  (Szász Kristóf - DCFW6L)
 
-## A téma összesen kb. 30 órát vett igénybe, melyből 1 óra volt maga az adatforrás keresése, a többi pedig magára az elemzésre/megjelenítésre ment el.
+## A téma összesen kb. 20 órát vett igénybe, melyből 3-4 óra volt maga az adatforrás keresése, a többi pedig magára az elemzésre/megjelenítésre ment el.
 
 ## Téma röviden:
 
-Az angol Premier League 2017-18-as szezon adatainak elemzése és ezen adatok megjelenítése.
+Egészen 1896-tól 2012-ig feljegyzett olimpiai helyezéseket tartalmazó adathalmazon való statisztikai adatok kimutatása és megjelenítése.
 
 ## Hogyan történt a megvalósítás?
 
@@ -12,9 +12,10 @@ Jupyter notebookot használtam és a pandas sokszínű adatmegjelenítési eszk�
 
 ## Mire jó?
 
-Különböző következtetéseket lehet levonni az adott szezonra csapatokra lebontva.
+Inkább különböző érdekességek egyfajta ábrázolásának mondanám, nem pedig valamilyen problémát megoldó alkotásnak. Tehát egyfajta gyűjtemény olyan statisztikai adatokról az olimpi
+ával kapcsolatban amit esetleg sikerült más szemmel megközelítenem mint mások.
 
-A témáról a videó [itt](https://web.microsoftstream.com/video/3916a456-00cc-4a06-8425-bd563120bf7b?list=studio) érhető el.
+A témáról a videó [itt](https://web.microsoftstream.com/video/9fc1a4bc-9702-4cdd-b2d4-18dbb678aef9?list=studio) érhető el.
 
 
 # Hogyan tudod futtatni a saját gépeden?
